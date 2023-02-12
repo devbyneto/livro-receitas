@@ -2,4 +2,4 @@
 
 Olá! Meu livro de receitas
 
-- Strogonoff de frango
+- Strogonoff de frango.
